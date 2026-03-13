@@ -5,7 +5,11 @@
 
 ## 資料庫TABLES
 
--
+-Clients  
+-Employees  
+-Products  
+-Sales  
+-salesall  
 
 ## SQL分析案例  
 
