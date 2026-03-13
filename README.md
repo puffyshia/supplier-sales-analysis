@@ -22,5 +22,5 @@
 ## 使用工具  
 -SQL  
 -Excel  
--POWER BI  
+-Power BI  
 -PowerPoint  
