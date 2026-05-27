@@ -12,8 +12,8 @@
 -salesall  
 
 ## 使用工具  
--SQL 
--Power BI 
+-SQL  
+-Power BI  
 -Excel  
 
 ## SQL分析案例  
