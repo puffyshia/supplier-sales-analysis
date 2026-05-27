@@ -11,6 +11,11 @@
 -Sales  
 -salesall  
 
+## 使用工具  
+-SQL  
+-Excel  
+-Power BI 
+
 ## SQL分析案例  
 
 01.產品資料驗證  
@@ -18,12 +23,6 @@
 03.每月營收匯總  
 04.業績達標分析  
 05.訂單內產品金額排名(window function)
-
-## 使用工具  
--SQL  
--Excel  
--Power BI  
--PowerPoint  
 
 ## Excel  
 -2019-2021年度銷售績效與客戶行為分析報告  
