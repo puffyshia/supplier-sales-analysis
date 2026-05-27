@@ -5,11 +5,11 @@
 
 ## 資料庫TABLES
 
--Clients  
--Employees  
--Products  
--Sales  
--salesall  
+-HappyFruit.dbo.Clients  
+-HappyFruit.dbo.Employees  
+-HappyFruit.dbo.Products  
+-HappyFruit.dbo.Sales  
+-HappyFruit.dbo.salesall  
 
 ## 使用工具  
 -SQL  
