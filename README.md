@@ -24,7 +24,7 @@
 04.業績達標分析  
 05.訂單內產品金額排名(window function)
 
-##Power BI  
+## Power BI  
 -2019-2021年度銷售績效與客戶行為分析報告.pbix  
 
 ## Excel  
