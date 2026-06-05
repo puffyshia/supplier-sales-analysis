@@ -10,11 +10,11 @@
 ## 🗄️ 資料庫架構 (Database Schema)
 本專案使用 `HappyFruit` 資料庫，包含以下五張主要資料表：
 
-*   **`HappyFruit.dbo.Clients`（維度表）**：客戶資料主檔。
-*   **`HappyFruit.dbo.Employees`（維度表）**：員工資料主檔。
-*   **`HappyFruit.dbo.Products`（維度表）**：產品資料主檔。
-*   **`HappyFruit.dbo.Sales`（事實表）**：標準銷售交易明細表（以編號紀錄）。
-*   **`HappyFruit.dbo.salesall`（事實表）**：標準銷售交易明細表（以名稱紀錄）。
+*   **`HappyFruit.dbo.Clients`**：客戶資料主檔。
+*   **`HappyFruit.dbo.Employees`**：員工資料主檔。
+*   **`HappyFruit.dbo.Products`**：產品資料主檔。
+*   **`HappyFruit.dbo.Sales`**：標準銷售交易明細表（以編號紀錄）。
+*   **`HappyFruit.dbo.salesall`**：標準銷售交易明細表（以名稱紀錄）。
 
 ---
 
